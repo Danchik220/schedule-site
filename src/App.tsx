@@ -84,7 +84,7 @@ function App() {
 
   return (
     <div className="relative min-h-screen text-slate-200 font-sans selection:bg-purple-500/30 overflow-hidden">
-      <Background />
+      {/* <Background /> */}
       <CalendarWidget />
       
       <main className="relative z-10 h-screen flex flex-col lg:flex-row">
